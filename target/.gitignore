@@ -1,0 +1,5 @@
+# Ignore everything in this directory
+*.jar
+*.zip
+# Except this file
+!.gitignore
